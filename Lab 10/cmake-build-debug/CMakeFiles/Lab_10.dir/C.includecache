@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/main.c
+stdio.h
+-
+stdlib.h
+-
+math.h
+-
+recursive_functions.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/recursive_functions.h
+sput.h
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/sput.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/recursive_functions.c
+stdio.h
+-
+math.h
+-
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/recursive_functions.h
+
+C:/Users/Danie/Documents/University/year 1/term 2/Programming - SYSC2006/Labs/Lab_10/sput.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+time.h
+-
+
